@@ -2,7 +2,7 @@ import Login from "./Login";
 
 function App() {
   return (
-    <div className="App">
+    <div className="App container mx-auto">
       <div className="content">
         <Login />
       </div>
